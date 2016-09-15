@@ -8,8 +8,9 @@ baseurl: ""
 url: "http://billglover.com"
 twitter_username: I_Write_Fiction
 github_username:  ScriptGadget
-facebook_username:  procrastes
+facebook_username:
 email_username:  bill@ybillglover.com
+linkedin_username: billglover
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
