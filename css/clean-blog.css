@@ -1,9 +1,3 @@
-/*!
- * Clean Blog v1.0.0 (http://startbootstrap.com)
- * Copyright 2015 Start Bootstrap
- * Licensed under MIT (https://spdx.org/licenses/MIT)
- */
-
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 20px;
@@ -39,6 +33,11 @@ a img:focus {
 blockquote {
   color: #808080;
   font-style: italic;
+}
+.citation {
+  color: #808080;
+  font-weight: 200;
+  font-size: 15px;
 }
 hr.small {
   max-width: 100px;
