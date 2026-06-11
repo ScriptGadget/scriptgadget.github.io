@@ -9,7 +9,7 @@ bill@billglover.com · 806-433-0866 · github.com/scriptgadget · billglover.com
 
 ## Summary
 
-Engineering leader who builds and grows teams that ship reliable software in high-stakes domains. Three years leading engineering for one of the largest global giving platforms on AWS. Earlier, as Chief Architect at Sabre, managed a team of architects and shaped technical direction across a portfolio driving roughly 150 products. I lead through influence and demonstrated value, develop engineers into their next role, and carry teams through hard technical problems without burning them out. Thirty years hands-on, from embedded C to cloud, so my technical calls are credible. My job is to make the team effective, not to be the smartest person in the room.
+Engineering leader who builds and grows teams that ship reliable software in high-stakes domains. Three years leading engineering for one of the largest global giving platforms on AWS. Earlier, as Chief Architect at Sabre, managed a team of architects and shaped technical direction across a portfolio driving roughly 150 products. I lead through influence and demonstrated value, develop engineers into their next role, and carry teams through hard technical problems without burning them out. Thirty years hands-on, from embedded C to cloud, so my technical calls are credible. I am trained in conflict resolution and mediation, so I'm comfortable in uncomfortable conversations and understand how to leave space for healthy disagreement. My job is to make the team effective, not to be the smartest person in the room.
 
 ## Leadership
 
@@ -38,7 +38,7 @@ Provided technical leadership for the application architects of a global airline
 **Sun Microsystems — Senior Java Architect / Enterprise RFID Architect** · 2001-2006
 - Methodology and architecture coach across project lifecycles; mentored client teams on design, patterns, and delivery.
 - Lead architect through the full lifecycle of major launches, including a complete re-architecture of one of the highest-value travel sites in the world.
-- Led Sun's RFID technology incubator as a recognized subject-matter expert.
+- Contributed to the field of RFID through Sun's RFID technology incubator as a recognized subject-matter expert.
 
 **ITA Software (Google) — Customer Relationship Manager** · 2006
 - Primary point of contact for the company's largest customer. Defined goals, tracked execution and delivery, and negotiated internal and external priorities across a matrix organization.
@@ -57,7 +57,7 @@ Cloud cost-audit CLI (in development): concurrent multi-region AWS scanning unde
 
 ## Technical Proficiency
 
-Java, C, C++, Python, Bash, JavaScript, TypeScript · AWS (EC2, RDS, DynamoDB, Lambda, API Gateway, SQS, CloudFront, S3, Step Functions, CloudFormation) · Docker, Redis, Linux
+Java, C, C++, Python, Bash, JavaScript, TypeScript/React · AWS (EC2, RDS, DynamoDB, Lambda, API Gateway, SQS, CloudFront, S3, Step Functions, CloudFormation) · Docker, Redis, Linux
 
 ## Publications
 
